@@ -1,0 +1,15 @@
+#bg {
+    background-repeat: no-repeat;
+    background-size: 1310px 650px;
+}
+
+.navbar-brand
+{
+  font-size: 45px;
+}
+
+.nav-item
+{
+    font-weight: bold;
+    font-size: 22px;
+}
